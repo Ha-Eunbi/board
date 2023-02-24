@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b342b656-19ad-4d04-a582-3f4de1d700f2" name="변경" comment=" 커밋">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="b342b656-19ad-4d04-a582-3f4de1d700f2" name="변경" comment=" 커밋" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677197712241</updated>
       <workItem from="1677197713471" duration="5920000" />
-      <workItem from="1677209245150" duration="324000" />
+      <workItem from="1677209245150" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary=" 커밋">
       <created>1677202864423</created>
@@ -123,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677209258825</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" 커밋">
+      <created>1677209584419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677209584419</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
